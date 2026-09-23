@@ -138,14 +138,12 @@ The project contains four major analytical views:
 <img width="1920" height="721" alt="Dashboard - Excel 9_23_2026 12_20_37 PM" src="https://github.com/user-attachments/assets/ac693af3-0734-43e8-9806-cd4125004440" />
 <img width="1920" height="715" alt="Dashboard - Excel 9_23_2026 12_20_48 PM" src="https://github.com/user-attachments/assets/e9a27919-8347-4b66-af42-4b220853ccc3" />
 
-Contact: Taranpreet Kaur
+## Contact: Taranpreet Kaur
+
 Email-preetkaur172005@gmail.com
+
 Linkedin-https://www.linkedin.com/in/taranpreet-kaur-a15653403/
 
-
-
-email- preetkaur172005@gmail.com
-Linkedin- https://www.linkedin.com/in/taranpreet-kaur-a15653403/
-Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 Microsoft Excel | Pivot Tables | Pivot Charts | Slicers | Data Analysis | Data Visualization | KPI Reporting | Business Intelligence | Dashboard Design
